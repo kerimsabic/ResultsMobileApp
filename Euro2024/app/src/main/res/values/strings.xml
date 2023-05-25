@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Euro2024</string>
+    <string name="dzeko">Edin Dzeko</string>
+    <string name="dzeko_age">66</string>
+    <string name="dzeko_club">Inter</string>
+    <string name="miralem">Miralem Pjanic</string>
+    <string name="miralem_age">66</string>
+    <string name="miralem_club">Al-Sharjah</string>
+    <string name="demirovic">Ermedin Demirovic</string>
+    <string name="demirovic_age">22</string>
+    <string name="demirovic_club">Augsburg</string>
+    <string name="ahmedhodzic">Arnel Ahmedhodzic</string>
+    <string name="ahmedhodzic_age">33</string>
+    <string name="ahmedhodzic_club">Sheffield United</string>
+
+
+</resources>
